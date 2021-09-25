@@ -156,6 +156,14 @@ GitHub is a code hosting platform for version control and collaboration , It let
 - **Data science vs Artificial Intelligence vs Machine Learning vs Deep Learning**
 
 
+
+`Data Analyst` :  A person who is good  at Statistics and  working with tools like Tableu or Excel
+
+`Data Scientist`: A person who is better at Statistics than any Software Engineer, and better at Software Engineering than any Statistician
+
+
+
+
 .
 
 
