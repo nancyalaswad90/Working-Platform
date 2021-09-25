@@ -41,7 +41,7 @@ GitHub is a code hosting platform for version control and collaboration , It let
 =============
 
 
-
+- [Kaggle Youtube Lecture ](https://www.youtube.com/watch?v=aIus8si_Et0&list=LL&index=1&t=8s)
 
 
 .
