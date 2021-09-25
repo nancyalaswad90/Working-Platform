@@ -81,10 +81,20 @@ GitHub is a code hosting platform for version control and collaboration , It let
 
 
 
+
+
+.
+
+
 > ## Extra material 
 
 
 - Read more about  [Build a Treemap](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_treemap.htm#:~:text=Use%20treemaps%20to%20display%20data,in%20a%20visually%20attractive%20format.)
+
+
+![Build a Treemap](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_treemap.htm#:~:text=Use%20treemaps%20to%20display%20data,in%20a%20visually%20attractive%20format.)
+
+
 
 
 - Read more about  [Build a Bubblechart](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1596392753/bubblechart1.gif)
