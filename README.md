@@ -65,12 +65,15 @@ GitHub is a code hosting platform for version control and collaboration , It let
 - [Tableau documentation ](https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_datamodel_whatschanged.htm)
 
 
-- [plagiarized-work]()
+-  plagiarized-work : - 
+
+    -  [First idea ](https://review.udacity.com/#!/reviews/3179178)
+    - [Second idea ](https://review.udacity.com/#!/reviews/3176250)
 
 
 
-- [محاضرة محمد العقاب للطيران](https://review.udacity.com/#!/reviews/3179178)
-- [ يوتيوب سرقة ](https://review.udacity.com/#!/reviews/3176250)
+- [First idea ](https://review.udacity.com/#!/reviews/3179178)
+- [Second idea ](https://review.udacity.com/#!/reviews/3176250)
 .
 
 
