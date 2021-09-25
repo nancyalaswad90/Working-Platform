@@ -77,6 +77,49 @@ GitHub is a code hosting platform for version control and collaboration , It let
 .
 
 
+
+
+
+
+> ## Extra material 
+
+
+- Read more about  [Build a Treemap](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_treemap.htm#:~:text=Use%20treemaps%20to%20display%20data,in%20a%20visually%20attractive%20format.)
+
+
+- Read more about  [Build a Bubblechart](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1596392753/bubblechart1.gif)
+
+
+![bubblechart1.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1596392753/bubblechart1.gif)
+
+.
+
+![Tree](https://help.tableau.com/current/pro/desktop/en-us/Img/treemapchart1.gif)
+
+
+.
+
+
+- Read more about  [ Line Chart](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_line.htm)
+
+.
+
+
+![linechart1.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1596392619/linechart1.gif)
+
+
+
+
+
+
+
+
+
+
+=============================
+
+
+
 > # Certifications for Programs For Business Analyst
 
 
