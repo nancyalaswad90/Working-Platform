@@ -68,7 +68,7 @@ GitHub is a code hosting platform for version control and collaboration , It let
 -  plagiarized-work : - 
 
     -  [First idea ](https://www.youtube.com/watch?v=zfjsMoRbW-8)
-    - [Second idea ](https://public.tableau.com/app/profile/bandar.alrasheed)
+    - [Second idea ](https://public.tableau.com/app/profile/bandar.alrasheed)  & [File](https://docs.google.com/document/d/1d8WjbOyRQs5hdx48BG9m7lo4AD64z8-B/edit)
 
 
 
