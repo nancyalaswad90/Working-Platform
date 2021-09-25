@@ -54,6 +54,7 @@ GitHub is a code hosting platform for version control and collaboration , It let
 =============
 
 
+- [Active Videos for teaching Tableau principle ](https://public.tableau.com/en-us/s/resources)
 
 
 .
