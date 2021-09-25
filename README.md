@@ -54,7 +54,18 @@ GitHub is a code hosting platform for version control and collaboration , It let
 =============
 
 
+
+- [Tableau issues in Business analyst / FS](https://www.youtube.com/watch?v=MLn_iZgP-80&list=PLVvPFH7DSPJO_gZLO77r2107ufjpcQPsh)
+
+
 - [Active Videos for teaching Tableau principle ](https://public.tableau.com/en-us/s/resources)
+
+
+
+- [Tableau documentation ](https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_datamodel_whatschanged.htm)
+
+
+
 
 
 .
