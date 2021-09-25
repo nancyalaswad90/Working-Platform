@@ -93,7 +93,7 @@ GitHub is a code hosting platform for version control and collaboration , It let
 
 
 
-![Tree](https://help.tableau.com/current/pro/desktop/en-us/Img/treemapchart1.gif)
+![Tree.gif](https://help.tableau.com/current/pro/desktop/en-us/Img/treemapchart1.gif)
 
 
 .
