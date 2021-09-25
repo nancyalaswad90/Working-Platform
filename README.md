@@ -93,12 +93,6 @@ GitHub is a code hosting platform for version control and collaboration , It let
 
 
 
-![Tree.gif](https://help.tableau.com/current/pro/desktop/en-us/Img/treemapchart1.gif)
-
-
-.
-
-
 
 
 - Read more about  [Build a Bubblechart](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1596392753/bubblechart1.gif)
