@@ -92,7 +92,7 @@ GitHub is a code hosting platform for version control and collaboration , It let
 - Read more about  [Build a Treemap](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_treemap.htm#:~:text=Use%20treemaps%20to%20display%20data,in%20a%20visually%20attractive%20format.)
 
 
-![Build a Treemap](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_treemap.htm#:~:text=Use%20treemaps%20to%20display%20data,in%20a%20visually%20attractive%20format.)
+![Build a Treemap](https://help.tableau.com/current/pro/desktop/en-us/Img/treemapchart1.gif)
 
 
 
