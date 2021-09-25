@@ -74,13 +74,6 @@ GitHub is a code hosting platform for version control and collaboration , It let
 
 
 
-- [First idea ](https://review.udacity.com/#!/reviews/3179178)
-- [Second idea ](https://review.udacity.com/#!/reviews/3176250)
-.
-
-
-
-
 
 
 
